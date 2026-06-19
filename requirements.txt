@@ -1,0 +1,7 @@
+pandas
+numpy
+requests
+py_vollib
+scipy
+matplotlib
+yfinance
