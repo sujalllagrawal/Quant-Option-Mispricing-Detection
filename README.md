@@ -254,14 +254,16 @@ The project successfully:
 ## Historical Volatility Distribution
 
 
-<img width="1980" height="1499" alt="histogram" src="https://github.com/user-attachments/assets/cf1d8c0b-bebf-4477-bb94-365dc89f0b8a" />
+<img width="567" height="365" alt="image" src="https://github.com/user-attachments/assets/2bd677ca-c096-45d0-ad3f-4459c580292f" />
+
 
 
 ---
 
 ## Statistical Volatility Analysis
 
-  <img width="1980" height="1499" alt="normal_distribution" src="https://github.com/user-attachments/assets/344a8b1b-480e-4e05-a90e-680d93f7c4d0" />
+<img width="760" height="296" alt="image" src="https://github.com/user-attachments/assets/41e69762-25a2-4ac2-8fc0-01abdccd412a" />
+
 
 
 ---
