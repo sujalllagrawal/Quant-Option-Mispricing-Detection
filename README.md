@@ -159,7 +159,7 @@ Current Implied Volatility is then compared against this historical distribution
 
 # Sample Output
 
-      <img width="575" height="211" alt="Screenshot 2026-06-19 134802" src="https://github.com/user-attachments/assets/9c2500b0-b279-4358-95bf-acc619e61bfe" />
+ <img width="575" height="211" alt="Screenshot 2026-06-19 134802" src="https://github.com/user-attachments/assets/9c2500b0-b279-4358-95bf-acc619e61bfe" />
 
     
    
@@ -247,22 +247,21 @@ The project successfully:
 ## Option Scanner
 
 
-    <img width="575" height="211" alt="Screenshot 2026-06-19 134802" src="https://github.com/user-attachments/assets/53366627-31b8-4d62-bfed-c8ac290d57aa" />
+ <img width="575" height="211" alt="Screenshot 2026-06-19 134802" src="https://github.com/user-attachments/assets/53366627-31b8-4d62-bfed-c8ac290d57aa" />
 
 ---
 
 ## Historical Volatility Distribution
 
 
-    <img width="1980" height="1499" alt="histogram" src="https://github.com/user-attachments/assets/cf1d8c0b-bebf-4477-bb94-365dc89f0b8a" />
+<img width="1980" height="1499" alt="histogram" src="https://github.com/user-attachments/assets/cf1d8c0b-bebf-4477-bb94-365dc89f0b8a" />
 
 
 ---
 
 ## Statistical Volatility Analysis
 
-
-     <img width="1980" height="1499" alt="normal_distribution" src="https://github.com/user-attachments/assets/344a8b1b-480e-4e05-a90e-680d93f7c4d0" />
+  <img width="1980" height="1499" alt="normal_distribution" src="https://github.com/user-attachments/assets/344a8b1b-480e-4e05-a90e-680d93f7c4d0" />
 
 
 ---
